@@ -1,7 +1,7 @@
-# steady-as-she-goes
-# Project Title
+# Stronger 💪
+# Stronger APP
 
-One Paragraph of project description goes here
+Just a man trying to create the next best DSNY record keeping APP.
 
 ## Getting Started
 
@@ -12,50 +12,18 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+Android Phone
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Steps:
 
 ```
-Give the example
+Install and from the "Hamburger" menu setup your chart # 
+
+From the Hamburger menu you can set up all your information and preferences 
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
